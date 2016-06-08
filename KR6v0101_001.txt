@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:46.071923
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:14
 #+TITLE: 寶髻大王菩薩本緣
 #+PROPERTY: CBETA_ID W09n0074
 #+PROPERTY: ID KR6v0101
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 題解¶
 ¶
 任遠譯¶
 ¶
@@ -112,7 +112,7 @@ Lienhard。Handurukende已將一種《寶髻本緣》從梵文譯¶
 ¶
 ¶
 
-正文¶
+* 正文¶
 ¶
 
 1、有一天，阿育王雙手合十，向優波笈多鞠躬¶
